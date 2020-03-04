@@ -1,15 +1,15 @@
 const Address = [
 	{
 		id: 'd2wkepjj9pqyqgo82lf',
-		address: '1NLp1zwwQ7ukYA1vjrkszokGGCGxb9NcAc',
+		address: '1EReE5Qi2ugfz4HqCoDRFoECkE3nMg7wrt',
 	},
 	{
 		id: '3axzmfjo1szt18rruix',
-		address: '1FxnPM3SgrfXPWK9tdA3wJV9wmDSKAG8YR',
+		address: '3Mjrfpf6JTzXG6o97Fwx8qXezNrcFaEqgN',
 	},
 	{
 		id: 'hsmp98tkdo4e383ymb2',
-		address: '184Z5PpEJztHxpbfixoPbvQp7ism3EaSwx',
+		address: '3Mjrfpf6JTzXG6o97Fwx8qXezNrcFaEqgN',
 	}
 ];
 
